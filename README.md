@@ -1,4 +1,4 @@
 # LaraPersonalSite
-My Online Resume :) 
-Visit Lara Personal Site at this link:
+ 
+Visit Lara Personal Site at this link:/n
 https://larajbour.github.io/LaraPersonalSite/ 
